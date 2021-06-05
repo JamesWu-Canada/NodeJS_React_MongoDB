@@ -1,0 +1,158 @@
+.Contact {
+  text-align: center;
+}
+
+.introduction {
+  color: black;
+  font-size: 25px;
+  font-weight: normal;
+  left: 15%;
+  top: 120px;
+  height: 80px;
+  margin-top: 0px;
+  padding-top: 0px;
+  position: absolute;
+  width: 70%;
+  border: 5px solid green;
+}
+
+.title {
+  font-size: 45px;
+  color: white;
+  background-color: green;
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+}
+
+.login_button {
+  left: 400px;
+}
+
+.contact_input {
+  color: black;
+  font-size: 20px;
+  font-weight: normal;
+  /* position: fixed; */
+  left: 0px;
+  top: 250px;
+  width: 100%;
+  height: 400px;
+  position: absolute;
+
+  /* border: 2px solid green; */
+}
+
+.contact_input .contact_input_title {
+  color: green;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.contact_input .input_body {
+  margin-top: 40px;
+}
+
+.contact_input .input_body p {
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 20px;
+}
+
+.contact_input .input_body input {
+  font-size: 20px;
+  font-style: normal;
+}
+
+.contact_input {
+  color: green;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.order_input .email_address {
+  font-weight: normal;
+  font-style: normal;
+  padding: 10px;
+}
+
+.order_input .subject {
+  font-weight: normal;
+  font-style: normal;
+  padding: 10px;
+}
+
+.order_input .message {
+  font-weight: normal;
+  font-style: normal;
+  padding: 10px;
+}
+
+.submission_button {
+  background-color: green;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  margin-top: 20px;
+  padding: 5px;
+}
+
+.contact_login_button {
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 25px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 22px;
+  box-sizing: border-box;
+}
+.contact_orderdisplay_button {
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 125px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.contact_neworder_button {
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 225px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.contact_home_button {
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 325px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 25px;
+  box-sizing: border-box;
+}

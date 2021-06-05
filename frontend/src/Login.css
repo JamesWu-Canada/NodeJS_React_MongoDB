@@ -1,0 +1,159 @@
+.LogIn {
+  text-align: center;
+}
+
+.introduction {
+  color: black;
+  font-size: 25px;
+  font-weight: normal;
+  left: 15%;
+  top: 120px;
+  height: 80px;
+  margin-top: 0px;
+  padding-top: 0px;
+  position: absolute;
+  width: 70%;
+  border: 5px solid green;
+}
+
+.title {
+  font-size: 45px;
+  color: white;
+  background-color: green;
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+}
+
+.login_button {
+  left: 400px;
+}
+
+.login_input {
+  color: black;
+  font-size: 20px;
+  font-weight: normal;
+  /* position: fixed; */
+  left: 0px;
+  top: 250px;
+  width: 100%;
+  height: 400px;
+  position: absolute;
+
+  /* border: 2px solid green; */
+}
+
+.login_input .login_title {
+  color: green;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.login_input .login_body {
+  margin-top: 40px;
+}
+
+.login_input .login_body p {
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 20px;
+}
+
+.login_input .login_body input {
+  font-size: 20px;
+  font-style: normal;
+}
+
+.login_input .email_address {
+  font-weight: normal;
+  font-style: normal;
+  padding: 10px;
+}
+
+.submission_button {
+  background-color: green;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  margin-top: 20px;
+  padding: 5px;
+}
+
+.error,
+.wrong_password {
+  color: red;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.signIn_success {
+  color: green;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.login_neworder_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 25px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+.orderdisplay_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 125px;
+  top: 10px;
+  color: green;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.login_logout_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 325px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.login_contact_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 225px;
+  top: 10px;
+  color: green;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.sign_up_sign_in {
+  color: blue;
+  font-size: 15px;
+  display: inline;
+}

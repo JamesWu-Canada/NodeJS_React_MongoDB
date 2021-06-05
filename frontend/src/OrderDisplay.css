@@ -1,0 +1,125 @@
+.OrderDisplay {
+  text-align: center;
+}
+
+.DisplayIntroduction {
+  color: black;
+  font-size: 25px;
+  font-weight: normal;
+  left: 15%;
+  top: 120px;
+  height: 80px;
+  margin-top: 0px;
+  padding-top: 0px;
+  position: absolute;
+  width: 70%;
+  border: 5px solid green;
+}
+
+.DisplayTitle {
+  font-size: 45px;
+  color: white;
+  background-color: green;
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+}
+.orderdisplay_login_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 25px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+.orderdisplay_neworder_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 125px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+.orderdisplay_contact_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 225px;
+  top: 10px;
+  color: green;
+  font-size: 17px;
+  font-weight: bold;
+}
+.display_list {
+  color: black;
+  font-size: 20px;
+  font-weight: normal;
+  /* position: fixed; */
+  left: 0px;
+  top: 250px;
+  width: 100%;
+  height: 400px;
+  position: absolute;
+}
+
+.display_list .display_list_title {
+  color: green;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.display_list .display_list_table {
+  border: 1px solid black;
+  padding: 8px;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th,
+tr,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  border-collapse: collapse;
+}
+
+.delete_button_cell {
+  border: none;
+}
+
+.delete_button {
+  background-color: red;
+}
+
+.editor_box_open {
+  width: 100%;
+  height: 100%;
+  /*border: 2px solid red;*/
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(250, 250, 250, 0.8);
+  /*transform: translate(-50%, -50%);*/
+}
+
+.editor_box_close {
+  display: none;
+}

@@ -1,0 +1,71 @@
+.PageNotFound {
+  text-align: center;
+}
+
+.title {
+  font-size: 45px;
+  color: white;
+  background-color: green;
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+}
+
+.pageNotFound_login_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 25px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+.pageNotFound_orderdisplay_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 125px;
+  top: 10px;
+  color: green;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.pageNotFound_neworder_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 225px;
+  top: 10px;
+  color: green;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.pageNotFound_home_button {
+  border-width: 5px;
+  border-color: rgba(0, 0, 0, 0.2);
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 325px;
+  top: 10px;
+  color: green;
+  font-size: 17px;
+  font-weight: bold;
+}

@@ -1,0 +1,89 @@
+.Home {
+  text-align: center;
+}
+
+.introduction {
+  color: black;
+  font-size: 25px;
+  font-weight: normal;
+  left: 15%;
+  top: 120px;
+  height: 80px;
+  margin-top: 0px;
+  padding-top: 0px;
+  position: absolute;
+  width: 70%;
+  border: 5px solid green;
+}
+
+.title {
+  font-size: 45px;
+  color: white;
+  background-color: green;
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+}
+
+.login_button {
+  left: 400px;
+}
+
+.home_login_button {
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 25px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 22px;
+  box-sizing: border-box;
+}
+.home_orderdisplay_button {
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 125px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.home_neworder_button {
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 225px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.home_contact_button {
+  width: 80px;
+  height: 80px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  position: absolute;
+  right: 325px;
+  top: 10px;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 25px;
+  box-sizing: border-box;
+}
